@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Replan</string>
+    <string name="add_task">Dodaj zadanie</string>
+    <string name="empty_tasks">Brak zadań.\nDodaj pierwsze zadanie przyciskiem +</string>
+    <string name="task_title_hint">Tytuł zadania</string>
+    <string name="task_description_hint">Opis (opcjonalnie)</string>
+    <string name="when_to_start">Kiedy zacząć</string>
+    <string name="when_due">Kiedy ma być zrobione</string>
+    <string name="pick_start">Wybierz start</string>
+    <string name="pick_due">Wybierz termin</string>
+    <string name="clear">Wyczyść</string>
+    <string name="save">Zapisz</string>
+</resources>
